@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/IFSP/StudioProjects/Android_Studio_CRUD/app/src/main/res/layout/activity_alter.xml" value="0.18009118541033434" />
+        <entry key="..\:/Users/IFSP/StudioProjects/Android_Studio_CRUD/app/src/main/res/layout/activity_cadastro.xml" value="0.18009118541033434" />
+        <entry key="..\:/Users/IFSP/StudioProjects/Android_Studio_CRUD/app/src/main/res/layout/activity_main.xml" value="0.18009118541033434" />
         <entry key="..\:/Users/IFSP/StudioProjects/CRUDdoJoao/app/src/main/res/layout/activity_cadastro.xml" value="0.25" />
         <entry key="..\:/Users/IFSP/StudioProjects/CRUDdoJoao/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
       </map>

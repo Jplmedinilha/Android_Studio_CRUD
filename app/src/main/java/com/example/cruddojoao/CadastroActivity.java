@@ -26,7 +26,7 @@ public class CadastroActivity extends AppCompatActivity {
         txtNome = (EditText) findViewById(R.id.editTextNome);
         txtDia = (EditText) findViewById(R.id.txtDiaVencimento);
         txtValor = (EditText) findViewById(R.id.txtValor);
-        botao = (Button) findViewById(R.id.btnInserir);
+        botao = (Button) findViewById(R.id.btnUpdate);
 
         botao.setOnClickListener(new View.OnClickListener() {
             @Override

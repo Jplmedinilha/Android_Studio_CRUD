@@ -10,9 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CRUDDoJoao">
         <activity
-            android:name=".CadastroActivity"
+            android:name=".AlterActivity"
             android:parentActivityName=".MainActivity"
             android:exported="false" />
+        <activity
+            android:name=".CadastroActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
